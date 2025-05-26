@@ -1,0 +1,6 @@
+music-book-template/
+├── index.html
+├── style.css
+├── script.js
+├── config.js
+└── README.md
